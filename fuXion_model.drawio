@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T17:00:24.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="UONpD1gykvjOfBe4OtmD" version="15.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-20T17:05:15.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Rlh5IOaTuqm8SIp2irrK" version="15.2.9" type="github" pages="2">
   <diagram id="KA_HE6YPta2bOI-FpjTm" name="Fuxion Design">
     <mxGraphModel dx="1144" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3034,13 +3034,13 @@
           <mxGeometry x="-10" y="167" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7YqwEWZdwCPuHPadVXbo-583" value="Producción" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;gradientColor=#97d077;" vertex="1" parent="7YqwEWZdwCPuHPadVXbo-1">
-          <mxGeometry x="110" y="885" width="110" height="20" as="geometry" />
+          <mxGeometry x="110" y="895" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7YqwEWZdwCPuHPadVXbo-584" value="Sin Avance" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="7YqwEWZdwCPuHPadVXbo-1">
-          <mxGeometry x="110" y="930" width="110" height="20" as="geometry" />
+          <mxGeometry x="110" y="940" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7YqwEWZdwCPuHPadVXbo-585" value="En Desarrollo" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="7YqwEWZdwCPuHPadVXbo-1">
-          <mxGeometry x="110" y="970" width="110" height="20" as="geometry" />
+          <mxGeometry x="110" y="980" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7YqwEWZdwCPuHPadVXbo-586" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;Leyenda de Status&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="7YqwEWZdwCPuHPadVXbo-1">
           <mxGeometry x="75" y="850" width="190" height="35" as="geometry" />
