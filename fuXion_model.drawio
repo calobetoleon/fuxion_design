@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T22:36:53.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="PIyxWmej6BlDpfvgpicW" version="15.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-21T19:59:41.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="kAxuMGgcrwIJxSjE2UOh" version="15.2.9" type="github" pages="2">
   <diagram id="KA_HE6YPta2bOI-FpjTm" name="Fuxion Design">
-    <mxGraphModel dx="1144" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="890" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1253,7 +1253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Architecture High Level" id="hT57_IpKzJGz106gI7WL">
-    <mxGraphModel dx="1144" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="7YqwEWZdwCPuHPadVXbo-0" />
         <mxCell id="7YqwEWZdwCPuHPadVXbo-1" parent="7YqwEWZdwCPuHPadVXbo-0" />
@@ -2585,7 +2585,7 @@
         <mxCell id="7YqwEWZdwCPuHPadVXbo-447" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontStyle=1;strokeColor=#C73500;fillColor=#fa6800;startSize=30;" vertex="1" parent="7YqwEWZdwCPuHPadVXbo-416">
           <mxGeometry x="-10" y="-5" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7YqwEWZdwCPuHPadVXbo-448" value="aggw_productos" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" collapsed="1" parent="7YqwEWZdwCPuHPadVXbo-339">
+        <mxCell id="7YqwEWZdwCPuHPadVXbo-448" value="aggw_productos" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" collapsed="1" parent="7YqwEWZdwCPuHPadVXbo-339">
           <mxGeometry x="20" y="70" width="120" height="30" as="geometry">
             <mxRectangle x="560" y="150" width="161" height="345" as="alternateBounds" />
           </mxGeometry>
