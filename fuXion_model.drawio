@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T03:21:55.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="zOCEqFG9lRa-qfleAF7E" version="15.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-06T03:27:05.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="nrSb0HUMdbdnQfFVNjsv" version="15.6.5" type="github" pages="4">
   <diagram id="KA_HE6YPta2bOI-FpjTm" name="Fuxion Design">
     <mxGraphModel dx="1279" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2288,7 +2288,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Architecture High Level" id="hT57_IpKzJGz106gI7WL">
-    <mxGraphModel dx="1279" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1279" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="7YqwEWZdwCPuHPadVXbo-0" />
         <mxCell id="7YqwEWZdwCPuHPadVXbo-1" parent="7YqwEWZdwCPuHPadVXbo-0" />
@@ -2321,7 +2321,7 @@
         <mxCell id="9JKHL0jQT1mSJpz4MjeU-45" value="&lt;br style=&quot;font-size: 21px&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;calibri&amp;quot; ; font-size: 21px&quot;&gt;Wolbox &lt;br&gt;Exigo&lt;br&gt;Bitrix&lt;br&gt;Penny&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;calibri&amp;quot; ; font-size: 21px&quot;&gt;Facturador&lt;br&gt;APIs Terceros&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;calibri&amp;quot; ; font-size: 21px&quot;&gt;Redes sociales&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;fontColor=default;" parent="T_3N9Re1xafZOA2s3hSH-44" vertex="1">
           <mxGeometry y="42.30769230769231" width="147.1264367816092" height="258.54700854700855" as="geometry" />
         </mxCell>
-        <mxCell id="9JKHL0jQT1mSJpz4MjeU-48" value="&lt;h1&gt;Fuentes&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=default;" parent="T_3N9Re1xafZOA2s3hSH-44" vertex="1">
+        <mxCell id="9JKHL0jQT1mSJpz4MjeU-48" value="&lt;h1&gt;Source&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=default;" parent="T_3N9Re1xafZOA2s3hSH-44" vertex="1">
           <mxGeometry x="30.344827586206897" width="101.14942528735632" height="32.9059829059829" as="geometry" />
         </mxCell>
         <mxCell id="7YqwEWZdwCPuHPadVXbo-335" value="" style="swimlane;startSize=0;flipV=1;fontColor=default;" parent="T_3N9Re1xafZOA2s3hSH-44" vertex="1">
