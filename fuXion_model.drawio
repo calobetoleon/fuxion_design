@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T16:31:08.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="-ooTYUcN1ONahjh22ROv" version="15.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-24T16:32:59.459Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="AlLcqBh2jBA2VWrrcPWS" version="15.8.0" type="github" pages="4">
   <diagram id="KA_HE6YPta2bOI-FpjTm" name="Fuxion Design">
     <mxGraphModel dx="935" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4417,7 +4417,7 @@
           <mxGeometry x="25" y="2100" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-112" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fillColor=none;align=center;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
-          <mxGeometry x="45" y="2560" width="955" height="280" as="geometry">
+          <mxGeometry x="45" y="2950" width="955" height="280" as="geometry">
             <mxRectangle x="40" y="2120" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4480,10 +4480,10 @@
           <mxGeometry x="45" y="93.88" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-122" value="month_kpi_sales" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
-          <mxGeometry x="30" y="2530" width="120" height="20" as="geometry" />
+          <mxGeometry x="30" y="2920" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fqEVnw-DEsi68PfiUwnG-123" value="" style="swimlane;startSize=0;rounded=1;shadow=1;glass=0;sketch=0;fontSize=14;fillColor=default;align=center;verticalAlign=middle;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
-          <mxGeometry x="40" y="2920" width="960" height="297.01" as="geometry">
+        <mxCell id="fqEVnw-DEsi68PfiUwnG-123" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fillColor=default;align=center;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
+          <mxGeometry x="40" y="2555" width="960" height="297.01" as="geometry">
             <mxRectangle x="40" y="2120" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4542,16 +4542,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-133" value="week_kpi_marketing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
-          <mxGeometry x="45" y="2885" width="140" height="20" as="geometry" />
+          <mxGeometry x="45" y="2520" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-134" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
           <mxGeometry x="1040" y="2242.5" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-135" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
-          <mxGeometry x="1040" y="2660" width="90" height="55" as="geometry" />
+          <mxGeometry x="1040" y="3050" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-155" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
-          <mxGeometry x="1040" y="3010" width="90" height="55" as="geometry" />
+          <mxGeometry x="1040" y="2645" width="90" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
