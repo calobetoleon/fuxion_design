@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T16:32:59.459Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="AlLcqBh2jBA2VWrrcPWS" version="15.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-24T16:34:18.887Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="f67hk_EuH0f-5mgNOZz-" version="15.8.0" type="github" pages="4">
   <diagram id="KA_HE6YPta2bOI-FpjTm" name="Fuxion Design">
     <mxGraphModel dx="935" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4536,9 +4536,13 @@
         <mxCell id="fqEVnw-DEsi68PfiUwnG-158" value="start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="fqEVnw-DEsi68PfiUwnG-123">
           <mxGeometry x="40" y="97.01000000000002" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fqEVnw-DEsi68PfiUwnG-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="fqEVnw-DEsi68PfiUwnG-123" source="fqEVnw-DEsi68PfiUwnG-158" target="fqEVnw-DEsi68PfiUwnG-156">
+        <mxCell id="fqEVnw-DEsi68PfiUwnG-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="fqEVnw-DEsi68PfiUwnG-123" source="fqEVnw-DEsi68PfiUwnG-158">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="27.01000000000022" as="targetPoint" />
+            <mxPoint x="120" y="62" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="62" />
+              <mxPoint x="120" y="62" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-133" value="week_kpi_marketing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
