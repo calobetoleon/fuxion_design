@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T20:47:48.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="6nRnQ3alC2IVc6q6SU-Z" version="15.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-24T20:49:49.261Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="Tyvd-bmVJQgXCZT5RzNC" version="15.8.0" type="github" pages="4">
   <diagram id="KA_HE6YPta2bOI-FpjTm" name="Fuxion Design">
     <mxGraphModel dx="935" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4630,8 +4630,8 @@
         <mxCell id="fqEVnw-DEsi68PfiUwnG-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="fqEVnw-DEsi68PfiUwnG-123" source="fqEVnw-DEsi68PfiUwnG-132" target="fqEVnw-DEsi68PfiUwnG-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fqEVnw-DEsi68PfiUwnG-132" value="extract_ordenes_detalle_agg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="fqEVnw-DEsi68PfiUwnG-123">
-          <mxGeometry x="335" y="162" width="160" height="60" as="geometry" />
+        <mxCell id="fqEVnw-DEsi68PfiUwnG-132" value="extract_ordenes_detalle_aggw" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="fqEVnw-DEsi68PfiUwnG-123">
+          <mxGeometry x="335" y="162" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="fqEVnw-DEsi68PfiUwnG-123" source="fqEVnw-DEsi68PfiUwnG-156" target="fqEVnw-DEsi68PfiUwnG-127">
           <mxGeometry relative="1" as="geometry" />
