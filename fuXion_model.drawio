@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T20:49:49.261Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="Tyvd-bmVJQgXCZT5RzNC" version="15.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-24T21:08:28.877Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="21AVCLaNDVTcdvauLVNE" version="15.8.0" type="github" pages="4">
   <diagram id="KA_HE6YPta2bOI-FpjTm" name="Fuxion Design">
     <mxGraphModel dx="935" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4417,7 +4417,7 @@
           <mxGeometry x="30" y="1660" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-59" value="etls" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
-          <mxGeometry x="100" y="1696" width="40" height="20" as="geometry" />
+          <mxGeometry x="110" y="1696" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-109" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fillColor=none;align=center;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
           <mxGeometry x="40" y="2120" width="1040" height="330" as="geometry">
@@ -4531,7 +4531,7 @@
           <mxGeometry x="257" y="259.57" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-110" value="week_kpi_sales" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
-          <mxGeometry x="90" y="2090" width="130" height="20" as="geometry" />
+          <mxGeometry x="75" y="2090" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-112" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fillColor=none;align=center;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
           <mxGeometry x="43" y="2950" width="955" height="280" as="geometry">
@@ -4597,7 +4597,7 @@
           <mxGeometry x="45" y="93.88" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-122" value="month_kpi_sales" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
-          <mxGeometry x="29" y="2922" width="140" height="20" as="geometry" />
+          <mxGeometry x="70" y="2922" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-123" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;fillColor=default;align=center;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
           <mxGeometry x="40" y="2555" width="960" height="297.01" as="geometry">
@@ -4663,7 +4663,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-133" value="week_kpi_marketing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
-          <mxGeometry x="35" y="2524" width="160" height="20" as="geometry" />
+          <mxGeometry x="75" y="2520" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-135" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
           <mxGeometry x="1040" y="3050" width="90" height="55" as="geometry" />
