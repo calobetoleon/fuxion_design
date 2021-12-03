@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T21:11:36.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="gEQW7Dl98akvmnQCcXj9" version="15.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-03T21:13:55.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="C2Xw58egVo4T1pqBwda3" version="15.8.0" type="github" pages="4">
   <diagram id="KA_HE6YPta2bOI-FpjTm" name="Fuxion Design">
     <mxGraphModel dx="1032" dy="2193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4473,6 +4473,9 @@
         <mxCell id="nB2mIphV-1hIODChsxp3-80" value="&lt;span style=&quot;font-size: 13px&quot;&gt;remove_week_&lt;br&gt;actividad_&lt;/span&gt;ventas&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="fqEVnw-DEsi68PfiUwnG-109">
           <mxGeometry x="359" y="380" width="121" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nB2mIphV-1hIODChsxp3-90" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Task that extracts, transforms&lt;br&gt;&lt;/span&gt;and loads a dataframe into&amp;nbsp;&lt;br&gt;Ms Sql Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#000000;" vertex="1" parent="fqEVnw-DEsi68PfiUwnG-109">
+          <mxGeometry x="794" y="62" width="170" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-110" value="week_kpi_sales" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
           <mxGeometry x="76" y="2510" width="130" height="20" as="geometry" />
         </mxCell>
@@ -4613,6 +4616,12 @@
         </mxCell>
         <mxCell id="fqEVnw-DEsi68PfiUwnG-155" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
           <mxGeometry x="1041" y="3475" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="nB2mIphV-1hIODChsxp3-88" value="&lt;span style=&quot;font-size: 12px&quot;&gt;process_week_&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;sales&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#000000;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
+          <mxGeometry x="730" y="2630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nB2mIphV-1hIODChsxp3-89" value="=" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#000000;" vertex="1" parent="u2UDopT6PpzuAOt8S5zc-1">
+          <mxGeometry x="824" y="2640" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
