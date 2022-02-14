@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T20:19:14.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="6GVc7y9sT2A1T141DvkG" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-14T13:46:00.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="mJboPFzesPQOFMT9e40S" version="16.5.6" type="github" pages="4">
   <diagram id="KA_HE6YPta2bOI-FpjTm" name="Fuxion Design">
-    <mxGraphModel dx="1059" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1599" dy="2023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2188,7 +2188,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Architecture High Level" id="hT57_IpKzJGz106gI7WL">
-    <mxGraphModel dx="1058" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1599" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="7YqwEWZdwCPuHPadVXbo-0" />
         <mxCell id="7YqwEWZdwCPuHPadVXbo-1" parent="7YqwEWZdwCPuHPadVXbo-0" />
@@ -3920,17 +3920,11 @@
         <mxCell id="IMqN4nh26QCMGmKIFVM5-0" value="&lt;h1 style=&quot;font-size: 32px&quot;&gt;FuXion Architecture&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=default;fontSize=32;fontStyle=4" parent="7YqwEWZdwCPuHPadVXbo-1" vertex="1">
           <mxGeometry x="22" y="20" width="498" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7YqwEWZdwCPuHPadVXbo-573" value="Data Engineering" style="swimlane;horizontal=0;align=center;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;rotation=90;fontColor=default;" parent="7YqwEWZdwCPuHPadVXbo-1" vertex="1">
-          <mxGeometry x="370" y="518.98" width="90.19" height="467.39" as="geometry" />
-        </mxCell>
-        <mxCell id="7YqwEWZdwCPuHPadVXbo-578" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Docker, Airflow, SQL, Pandas&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=360;fontColor=default;" parent="7YqwEWZdwCPuHPadVXbo-573" vertex="1">
-          <mxGeometry x="-59.89999999999999" y="233.98000000000002" width="210" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="7YqwEWZdwCPuHPadVXbo-575" value="Data Science" style="swimlane;horizontal=0;align=center;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;rotation=90;fontColor=default;" parent="7YqwEWZdwCPuHPadVXbo-1" vertex="1">
-          <mxGeometry x="860.04" y="510" width="89.51" height="485.35" as="geometry" />
+          <mxGeometry x="850.94" y="507.08" width="90" height="492.82" as="geometry" />
         </mxCell>
-        <mxCell id="7YqwEWZdwCPuHPadVXbo-579" value="Pandas, SKlearn, Airflow, PowerBI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;rotation=360;fontColor=default;" parent="7YqwEWZdwCPuHPadVXbo-575" vertex="1">
-          <mxGeometry x="-72.99999999999999" y="239.98" width="230" height="20" as="geometry" />
+        <mxCell id="7YqwEWZdwCPuHPadVXbo-579" value="Python(Pandas, SKlearn), Airflow, PowerBI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;rotation=360;fontColor=default;" parent="7YqwEWZdwCPuHPadVXbo-575" vertex="1">
+          <mxGeometry x="-95" y="246.97000000000003" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7YqwEWZdwCPuHPadVXbo-583" value="Producción" style="text;html=1;strokeColor=#000000;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;gradientColor=#97d077;rotation=0;" parent="7YqwEWZdwCPuHPadVXbo-1" vertex="1">
           <mxGeometry x="40" y="719" width="110" height="20" as="geometry" />
@@ -3945,7 +3939,7 @@
           <mxGeometry x="40" y="759" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kmA7IDNkKh49A8ml7ISO-3" value="" style="group;fontColor=default;" parent="7YqwEWZdwCPuHPadVXbo-1" vertex="1" connectable="0">
-          <mxGeometry x="190.00402298850574" y="461" width="220.68965517241378" height="550" as="geometry" />
+          <mxGeometry x="190.00402298850574" y="461" width="246.55597701149424" height="550" as="geometry" />
         </mxCell>
         <mxCell id="kmA7IDNkKh49A8ml7ISO-95" value="&lt;h1&gt;Soporte&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=default;" parent="kmA7IDNkKh49A8ml7ISO-3" vertex="1">
           <mxGeometry x="49.66" width="130.34" height="32.91" as="geometry" />
@@ -4077,6 +4071,12 @@
           <mxGeometry x="30" width="110" height="30" as="geometry">
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7YqwEWZdwCPuHPadVXbo-573" value="Data Engineering" style="swimlane;horizontal=0;align=center;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;rotation=90;fontColor=default;" parent="7YqwEWZdwCPuHPadVXbo-1" vertex="1">
+          <mxGeometry x="375" y="525" width="89.54" height="455.81" as="geometry" />
+        </mxCell>
+        <mxCell id="7YqwEWZdwCPuHPadVXbo-578" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Docker, Airflow, SQL, Python(Pandas)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=360;fontColor=default;" parent="7YqwEWZdwCPuHPadVXbo-573" vertex="1">
+          <mxGeometry x="-55.229999999999976" y="229.05" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
