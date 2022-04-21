@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T22:04:21.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Dn3khH4vHedQe1oB3Dar" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-21T22:21:54.851Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="iORr60WnVoprw_Lfzj1c" version="17.4.4" type="github" pages="4">
   <diagram id="KA_HE6YPta2bOI-FpjTm" name="Fuxion Design">
     <mxGraphModel dx="1207" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2730,8 +2730,8 @@
         <mxCell id="TvQQAWPn0OW-Zz4pJB1D-58" value="- Airflow espera la carga de datos de&lt;br&gt;ETL_ordenes para iniciar el flujo." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="U1KnMJG07VHwtJpIsHLK-2" vertex="1">
           <mxGeometry x="415.52" y="317" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TvQQAWPn0OW-Zz4pJB1D-60" value="- 10:30 am se ejecuta BI gateway&amp;nbsp;&lt;br&gt;que lleva los datos de la BD al Cloud BI" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="U1KnMJG07VHwtJpIsHLK-2" vertex="1">
-          <mxGeometry x="894.19" y="317" width="230" height="30" as="geometry" />
+        <mxCell id="TvQQAWPn0OW-Zz4pJB1D-60" value="- 10:30 am se ejecuta BI gateway&amp;nbsp;&lt;br&gt;que lleva los registros cargados del día &lt;br&gt;de la BD al Cloud BI" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="U1KnMJG07VHwtJpIsHLK-2" vertex="1">
+          <mxGeometry x="894.19" y="307" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TvQQAWPn0OW-Zz4pJB1D-63" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;- Airflow ejecuta el proceso de&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;carga de datos en el datalake de ventas (usa fuentes ETLs). Normalmente hace resúmenes semanales por cliente de las dos últimas semanas. Los miércoles re calcula dos periodos (8 semanas).&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="U1KnMJG07VHwtJpIsHLK-2" vertex="1">
           <mxGeometry x="416.21" y="420" width="210" height="95" as="geometry" />
@@ -2752,13 +2752,19 @@
           <mxGeometry x="6.49" y="425" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TvQQAWPn0OW-Zz4pJB1D-72" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Carga &amp;gt; 92, 000 registros&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;strokeColor=default;" parent="U1KnMJG07VHwtJpIsHLK-2" vertex="1">
-          <mxGeometry x="415.52" y="570.6" width="704.48" height="25" as="geometry" />
+          <mxGeometry x="415.52" y="570.6" width="444.48" height="25" as="geometry" />
         </mxCell>
         <mxCell id="TvQQAWPn0OW-Zz4pJB1D-73" value="&lt;span&gt;- Airflow ejecuta el proceso de&amp;nbsp;&lt;/span&gt;&lt;span&gt;actualización de datos en tablas ETLs&amp;nbsp;&lt;/span&gt;&lt;span&gt;en caso hayan cambios (p.e. cambio&amp;nbsp;&lt;/span&gt;&lt;span&gt;en el estado de la orden).&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="U1KnMJG07VHwtJpIsHLK-2" vertex="1">
           <mxGeometry x="416.21" y="350" width="204.48" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TvQQAWPn0OW-Zz4pJB1D-75" value="&lt;font style=&quot;font-size: 12px&quot;&gt;- Exigo bd de tablas &lt;br&gt;transaccionales&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="U1KnMJG07VHwtJpIsHLK-2" vertex="1">
           <mxGeometry x="6.489999999999995" y="355" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wap4l5u4og2edrnoX2fG-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;- Carga &amp;gt; 500 registros.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="U1KnMJG07VHwtJpIsHLK-2">
+          <mxGeometry x="898.39" y="568.1" width="191.61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wap4l5u4og2edrnoX2fG-1" value="- La fuentes de Datos es aggw_ventas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="U1KnMJG07VHwtJpIsHLK-2">
+          <mxGeometry x="884.19" y="375" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U1KnMJG07VHwtJpIsHLK-427" value="&lt;h1 style=&quot;font-size: 32px&quot;&gt;FuXion Architecture&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=default;fontSize=32;fontStyle=4" parent="U1KnMJG07VHwtJpIsHLK-1" vertex="1">
           <mxGeometry x="22" y="20" width="328" height="50" as="geometry" />
