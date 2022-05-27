@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T22:37:27.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="elN2U3h3QH71okbfRJP7" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-27T22:06:54.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="00RRy14RNqmdyZKzO-cF" version="17.4.6" type="github" pages="5">
   <diagram id="KA_HE6YPta2bOI-FpjTm" name="Fuxion Design">
-    <mxGraphModel dx="1207" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="689" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3440,6 +3440,71 @@
         </mxCell>
         <mxCell id="1pPUyQcH7N0xPioC_Zg--49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=1;dx=25.12;notch=0;fontSize=36;rotation=90;" parent="1pPUyQcH7N0xPioC_Zg--1" vertex="1">
           <mxGeometry x="120.62" y="394" width="42.13" height="21" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XgWnmB0mra2iBITtEsoV" name="BI File Structure">
+    <mxGraphModel dx="1359" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6NkG2JSrfW79u58Nzibp-1" value="Power BI Reports&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-2" value="IT Team Reports" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-3" value="Published Reports" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-4" value="Diego V" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-5" value="Un administrador &lt;br&gt;que publique&amp;nbsp;&lt;br&gt;los tableros&amp;nbsp;&lt;br&gt;con el gateway de BI&amp;nbsp;&lt;br&gt;de Producción" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="315" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-6" value="Checked Out" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="414" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-7" value="Miguel V" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="590" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-8" value="Ryan" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-9" value="Desarrollo de cada usuario&lt;br&gt;&amp;nbsp;en su carpeta.&lt;br&gt;Test en la nube con un &lt;br&gt;gateway de test" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="580" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-13" value="Cloud" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="85" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-14" value="Comercial Team Reports" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-16" value="Misma estructura de archivos&lt;br&gt;pero de comercial" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="170" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-17" value="Power BI Reports&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-18" value="Published Reports" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-19" value="Katherine G" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="600" y="500" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-20" value="Checked Out" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="560" y="414" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-21" value="User b" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="600" y="590" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-22" value="User c" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process_shared;spacingTop=-5;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="600" y="680" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6NkG2JSrfW79u58Nzibp-23" value="Un administrador de IT&lt;br&gt;debería tener el control&amp;nbsp;&lt;br&gt;de publicación en la nube" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="335" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
