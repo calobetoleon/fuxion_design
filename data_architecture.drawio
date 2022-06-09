@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T22:58:15.465Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="E1g_6SnvjTZI_t-0JDOl" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T15:39:33.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zh7oMl27sW14Dcu6aWMZ" version="18.2.1" type="github">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="Technical">
-    <mxGraphModel dx="1355" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1355" dy="2416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1187,9 +1187,6 @@
         <mxCell id="ZdUvaMXLcFVt-ijMAfai-565" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZdUvaMXLcFVt-ijMAfai-577" value="modify by fn (solution parameter intro)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-610" width="220" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ZdUvaMXLcFVt-ijMAfai-632" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdUvaMXLcFVt-ijMAfai-578" target="ZdUvaMXLcFVt-ijMAfai-592">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1354,7 +1351,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZdUvaMXLcFVt-ijMAfai-746" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdUvaMXLcFVt-ijMAfai-633" target="ZdUvaMXLcFVt-ijMAfai-657">
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-746" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdUvaMXLcFVt-ijMAfai-633" target="ZdUvaMXLcFVt-ijMAfai-657">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1290" y="429" as="targetPoint" />
           </mxGeometry>
@@ -1668,7 +1665,7 @@
             <mxRectangle width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZdUvaMXLcFVt-ijMAfai-812" value="vpy" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-812" value="py" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="308" y="-428.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZdUvaMXLcFVt-ijMAfai-816" value="pp" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -1716,6 +1713,54 @@
         </mxCell>
         <mxCell id="ZdUvaMXLcFVt-ijMAfai-837" value="periods" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="90" y="-375" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-838" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(33, 33, 33); background-color: rgb(255, 255, 254); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;--Actualize Every Year --&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-150" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-868" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.556;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZdUvaMXLcFVt-ijMAfai-852" target="ZdUvaMXLcFVt-ijMAfai-539">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-852" value="support_analytic_global_variables" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="380.25" y="-730" width="239.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-856" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="ZdUvaMXLcFVt-ijMAfai-852">
+          <mxGeometry y="30" width="239.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-857" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="ZdUvaMXLcFVt-ijMAfai-856">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-858" value="VariableName" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="ZdUvaMXLcFVt-ijMAfai-856">
+          <mxGeometry x="30" width="209.5" height="30" as="geometry">
+            <mxRectangle width="209.5" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-859" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="ZdUvaMXLcFVt-ijMAfai-852">
+          <mxGeometry y="60" width="239.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-860" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="ZdUvaMXLcFVt-ijMAfai-859">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-861" value="VariableValue" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="ZdUvaMXLcFVt-ijMAfai-859">
+          <mxGeometry x="30" width="209.5" height="30" as="geometry">
+            <mxRectangle width="209.5" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-875" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdUvaMXLcFVt-ijMAfai-869" target="ZdUvaMXLcFVt-ijMAfai-852">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="-900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-869" value="DefineGlobalvariables (TODO)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-840" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-876" value="Call PrLoadSalesByDecade2020s&lt;br&gt;then Update the CurrentSalesYear&lt;br&gt;value" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-830" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
