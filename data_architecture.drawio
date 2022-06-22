@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T19:41:21.873Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xwwjCc2gRGZI4JzpKp--" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T19:43:31.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="WrjJ7JsvNOPKlATxZEwy" version="20.0.1" type="github">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="Technical">
     <mxGraphModel dx="1051" dy="2486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1994,7 +1994,7 @@
         </mxCell>
         <mxCell id="41WEWJxHaRaPQ7KQx3gO-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3333;" parent="1" source="41WEWJxHaRaPQ7KQx3gO-49" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2530" as="targetPoint" />
+            <mxPoint x="2550" y="-15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41WEWJxHaRaPQ7KQx3gO-49" value="BIConsumerSegmentation" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
