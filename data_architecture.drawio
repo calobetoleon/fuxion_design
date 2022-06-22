@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T19:57:55.080Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="RVC75UtDhRL0XpON3o33" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T19:59:26.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="RPXOxw-BMCP1AXruRjmP" version="20.0.1" type="github">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="Technical">
     <mxGraphModel dx="1120" dy="2486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1940,13 +1940,8 @@
         <mxCell id="41WEWJxHaRaPQ7KQx3gO-32" value="cbs" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="2141" y="-240" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="41WEWJxHaRaPQ7KQx3gO-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3333;" parent="1" source="41WEWJxHaRaPQ7KQx3gO-49" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2570" y="48" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="41WEWJxHaRaPQ7KQx3gO-49" value="ViewBISegmentation" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2280" y="-152" width="210" height="400" as="geometry" />
+          <mxGeometry x="2290" y="-147" width="210" height="400" as="geometry" />
         </mxCell>
         <mxCell id="41WEWJxHaRaPQ7KQx3gO-50" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontColor=#FF3333;" parent="41WEWJxHaRaPQ7KQx3gO-49" vertex="1">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -2102,6 +2097,11 @@
         <mxCell id="AS-SKo3hPJ-cSxrVQVFp-152" value="AvgVolumePurchase2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontColor=#000000;" vertex="1" parent="AS-SKo3hPJ-cSxrVQVFp-150">
           <mxGeometry x="30" width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AS-SKo3hPJ-cSxrVQVFp-164" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="41WEWJxHaRaPQ7KQx3gO-62" target="AS-SKo3hPJ-cSxrVQVFp-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2281" y="48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41WEWJxHaRaPQ7KQx3gO-62" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
