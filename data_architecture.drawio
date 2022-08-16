@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T17:52:05.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="m5eTkxKfYPJDgz2qK6Z2" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T17:56:03.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="cxJwkfwbZhfE5WSHdu5L" version="20.2.3" type="github">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="Technical">
     <mxGraphModel dx="962" dy="2419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3482,7 +3482,7 @@
             <mxPoint x="272.5" y="1552.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rvQ-rp3Mo5rMFm7lc_qT-88" value="t1(sw)" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="rvQ-rp3Mo5rMFm7lc_qT-88" value="spw" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="261.00000000000006" y="1530" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="rvQ-rp3Mo5rMFm7lc_qT-94" value="primera compra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
