@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T17:29:12.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="UG7km_PZzUcYKoGhz-8m" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T17:52:05.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="m5eTkxKfYPJDgz2qK6Z2" version="20.2.3" type="github">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="Technical">
     <mxGraphModel dx="962" dy="2419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3205,7 +3205,7 @@
         <mxCell id="AS-SKo3hPJ-cSxrVQVFp-287" value="remove dm_sales_by_week" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="1069" y="269" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AS-SKo3hPJ-cSxrVQVFp-289" value="sw" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="AS-SKo3hPJ-cSxrVQVFp-289" value="spw" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="843.97" y="730" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AS-SKo3hPJ-cSxrVQVFp-303" value="sw" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
@@ -3698,7 +3698,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rvQ-rp3Mo5rMFm7lc_qT-343" value="support_quotas" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="rvQ-rp3Mo5rMFm7lc_qT-138" vertex="1">
-          <mxGeometry x="123" y="360" width="130" height="70" as="geometry" />
+          <mxGeometry x="122" y="360" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rvQ-rp3Mo5rMFm7lc_qT-344" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;strokeColor=#000000;" parent="rvQ-rp3Mo5rMFm7lc_qT-343" vertex="1">
           <mxGeometry y="30" width="130" height="30" as="geometry" />
@@ -4021,7 +4021,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MBecba5lZffc6or2cjcK-4" value="FnConsumerCumulatedMetrics" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="509" width="200" height="180" as="geometry">
+          <mxGeometry x="1190" y="509" width="200" height="180" as="geometry">
             <mxRectangle x="1190" y="240" width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4104,6 +4104,18 @@
         </mxCell>
         <mxCell id="MBecba5lZffc6or2cjcK-64" value="ccm" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="2330" y="184.5" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UPgwBCvRXKEEk_J0nqKb-6" value="&lt;div style=&quot;color: rgb(33, 33, 33); background-color: rgb(255, 255, 254); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;Revisar sw.BusinessVolume &lt;span style=&quot;color: #000000;&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&quot;color: #09885a;&quot;&gt;0&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="699" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UPgwBCvRXKEEk_J0nqKb-7" value="No necesitas el Volumen Personal + CP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="720" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UPgwBCvRXKEEk_J0nqKb-8" value="Necesitas Consumo Personal + CP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="156" y="1340" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UPgwBCvRXKEEk_J0nqKb-9" value="spw" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="859" y="544" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
