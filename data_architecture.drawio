@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T23:30:00.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="07nNcfp1s3dbLPTmMkiy" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T01:33:53.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Hbj_EkO7wjhJJUNZlpUM" version="20.2.7" type="github">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="Technical">
-    <mxGraphModel dx="1144" dy="2372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="2308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2264,7 +2264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b8C_COahMsVNj0lkAU7W-74" value="ViewProductFeatures" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="350" y="2858" width="220" height="340" as="geometry" />
+          <mxGeometry x="350" y="2858" width="220" height="370" as="geometry" />
         </mxCell>
         <mxCell id="b8C_COahMsVNj0lkAU7W-75" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;strokeColor=#000000;" parent="b8C_COahMsVNj0lkAU7W-74" vertex="1">
           <mxGeometry y="30" width="220" height="30" as="geometry" />
@@ -2392,6 +2392,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b8C_COahMsVNj0lkAU7W-122" value="SAPCode" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#000000;" parent="b8C_COahMsVNj0lkAU7W-120" vertex="1">
+          <mxGeometry x="30" width="190" height="30" as="geometry">
+            <mxRectangle width="190" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Iq9Vggyl6hGQV3Ss0T9-141" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;strokeColor=#000000;" vertex="1" parent="b8C_COahMsVNj0lkAU7W-74">
+          <mxGeometry y="330" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Iq9Vggyl6hGQV3Ss0T9-142" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;strokeColor=#000000;" vertex="1" parent="2Iq9Vggyl6hGQV3Ss0T9-141">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Iq9Vggyl6hGQV3Ss0T9-143" value="CountryItemCode" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#000000;" vertex="1" parent="2Iq9Vggyl6hGQV3Ss0T9-141">
           <mxGeometry x="30" width="190" height="30" as="geometry">
             <mxRectangle width="190" height="30" as="alternateBounds" />
           </mxGeometry>
