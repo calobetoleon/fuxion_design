@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T19:59:01.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="OoyBIN4pmc6iqjdO4JT2" version="20.3.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-27T22:16:15.232Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="j2eeDMNQ50LJ-bODWuoP" version="20.3.3" type="github" pages="2">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="Technical">
-    <mxGraphModel dx="1693" dy="2670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1693" dy="2755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2526,7 +2526,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IjMJd1HjuVIZLy5f6jdQ-12" value="CurrencyCode" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#BAC8D3;" vertex="1" parent="IjMJd1HjuVIZLy5f6jdQ-10">
+        <mxCell id="IjMJd1HjuVIZLy5f6jdQ-12" value="CurrencyCode" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#BAC8D3;fontColor=#0000FF;" vertex="1" parent="IjMJd1HjuVIZLy5f6jdQ-10">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -3364,7 +3364,7 @@
           <mxGeometry x="640" y="3025" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rvQ-rp3Mo5rMFm7lc_qT-53" value="" style="swimlane;startSize=0;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="2480" y="2434" width="1150" height="696" as="geometry">
+          <mxGeometry x="2480" y="2432" width="1150" height="696" as="geometry">
             <mxRectangle x="2600" y="2445" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3810,8 +3810,8 @@
             <mxPoint x="530" y="-33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rvQ-rp3Mo5rMFm7lc_qT-63" value="BI Panel Marketing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2475" y="2390" width="120" height="30" as="geometry" />
+        <mxCell id="rvQ-rp3Mo5rMFm7lc_qT-63" value="BI Reporte Productos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2465" y="2388" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rvQ-rp3Mo5rMFm7lc_qT-64" value="remove aggw_sales" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="1753" y="623" width="130" height="30" as="geometry" />
