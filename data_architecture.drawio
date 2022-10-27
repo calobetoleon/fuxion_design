@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T22:22:41.241Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="io0_uQT8UfGHA59MVLVm" version="20.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-27T15:40:23.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="2H3N1GASHIcKpbTr9QyP" version="20.3.7" type="github" pages="2">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="Technical">
-    <mxGraphModel dx="1691" dy="2755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1691" dy="2670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4089,9 +4089,6 @@
         <mxCell id="MBecba5lZffc6or2cjcK-1" value="&lt;font color=&quot;#000000&quot;&gt;Si estamos 2022: Acumulado 2020 - 2021&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="365" y="-70" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MBecba5lZffc6or2cjcK-2" value="Volumen de Clientes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="625" y="205" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="MBecba5lZffc6or2cjcK-3" value="&lt;div style=&quot;color: rgb(33, 33, 33); background-color: rgb(255, 255, 254); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #008000;&quot;&gt;-- muestra data desde que hay tipos de cambio 2019-01-01 &lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="387.5" y="770" width="430" height="30" as="geometry" />
         </mxCell>
@@ -5566,22 +5563,43 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-oJlGOwL2gRDX8iwoQ3U" name="Technical Power BI">
-    <mxGraphModel dx="1618" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="-oJlGOwL2gRDX8iwoQ3U" name="Pipelines">
+    <mxGraphModel dx="1691" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NowLACeiXqbIDdHgBdvZ-2" value="Dataflow: Aggregations" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="160" y="180" width="450" height="230" as="geometry" />
+        <mxCell id="Fqjqibxa9Oxi2QiupH_P-2" value="" style="shape=collate;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NowLACeiXqbIDdHgBdvZ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NowLACeiXqbIDdHgBdvZ-2">
-          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="Fqjqibxa9Oxi2QiupH_P-7" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
+          <mxGeometry x="300" y="252" width="80" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="NowLACeiXqbIDdHgBdvZ-3" value="Dataflow: Aggregations" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="160" y="490" width="450" height="230" as="geometry" />
+        <mxCell id="Fqjqibxa9Oxi2QiupH_P-8" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="670" y="180" width="430" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="NowLACeiXqbIDdHgBdvZ-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NowLACeiXqbIDdHgBdvZ-3">
-          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="Fqjqibxa9Oxi2QiupH_P-10" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_male;" vertex="1" parent="1">
+          <mxGeometry x="320" y="344.5" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Fqjqibxa9Oxi2QiupH_P-11" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" vertex="1" parent="1">
+          <mxGeometry x="39.5" y="40" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="Fqjqibxa9Oxi2QiupH_P-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Data_Lake_Store_Gen1.svg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="64" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Fqjqibxa9Oxi2QiupH_P-13" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
+          <mxGeometry x="300" y="488.25" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Fqjqibxa9Oxi2QiupH_P-14" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_male;" vertex="1" parent="1">
+          <mxGeometry x="320" y="580.75" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Fqjqibxa9Oxi2QiupH_P-15" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Data_Lake_Store_Gen1.svg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="472" width="64" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Fqjqibxa9Oxi2QiupH_P-16" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fqjqibxa9Oxi2QiupH_P-17" value="Power BI Online Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="145" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
