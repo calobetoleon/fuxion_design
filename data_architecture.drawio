@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T19:25:15.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dqOmm-K1cAMKRNhoJbBn" version="20.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-27T19:27:33.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="A54hA28AUl5AEbge8vbb" version="20.3.7" type="github" pages="2">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="SQL - BI detail">
     <mxGraphModel dx="2012" dy="2788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6028,6 +6028,12 @@
         </mxCell>
         <mxCell id="VhRub9NJspWf_QL4k4Pr-2" value="Workspace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="710" y="488.25" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VhRub9NJspWf_QL4k4Pr-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=40;notch=25;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VhRub9NJspWf_QL4k4Pr-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=40;notch=25;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="485" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
