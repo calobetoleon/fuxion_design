@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T22:43:41.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="lsAXyOFwXTtSIE9AgR-r" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-23T22:53:27.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="T4dX8KmBvMAVpBh9RddD" version="20.6.0" type="github" pages="2">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="SQL - BI Architecture">
     <mxGraphModel dx="1870" dy="2602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3937,8 +3937,8 @@
         <mxCell id="DVfIR5sCvFz1ziTL87Rx-47" value="ct" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="rvQ-rp3Mo5rMFm7lc_qT-138" vertex="1">
           <mxGeometry x="137.5" y="70" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="rvQ-rp3Mo5rMFm7lc_qT-391" value="&amp;nbsp;Growth Meeting In BI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2465" y="574" width="140" height="30" as="geometry" />
+        <mxCell id="rvQ-rp3Mo5rMFm7lc_qT-391" value="&amp;nbsp;Growth Meeting in Power BI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="2470" y="574" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MBecba5lZffc6or2cjcK-1" value="&lt;font color=&quot;#000000&quot;&gt;Si estamos 2022: Acumulado 2020 - 2021&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="365" y="-70" width="250" height="30" as="geometry" />
