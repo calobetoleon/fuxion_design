@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-24T00:32:48.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="nk3akj1YirdgacDMPlHZ" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-24T00:36:12.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="-oyq6y_zyptBFg7aKzVv" version="20.6.0" type="github" pages="2">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="SQL - BI Architecture">
     <mxGraphModel dx="1870" dy="2602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2971,7 +2971,7 @@
           <mxGeometry x="1189.72" y="849" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AS-SKo3hPJ-cSxrVQVFp-303" value="sw" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1188.02" y="-690" width="30" height="30" as="geometry" />
+          <mxGeometry x="1320" y="-565" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AS-SKo3hPJ-cSxrVQVFp-304" value="cs" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="2300" y="-594" width="45" height="45" as="geometry" />
@@ -3935,7 +3935,7 @@
           <mxGeometry x="952.5" y="-867" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MBecba5lZffc6or2cjcK-3" value="&lt;div style=&quot;color: rgb(33, 33, 33); background-color: rgb(255, 255, 254); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;span style=&quot;color: #008000;&quot;&gt;-- muestra data desde que hay tipos de cambio 2019-01-01 &lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="707.46" y="720" width="430" height="30" as="geometry" />
+          <mxGeometry x="552.97" y="-50" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MBecba5lZffc6or2cjcK-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.002;entryY=0.557;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MBecba5lZffc6or2cjcK-4" target="j7KDaoeOGdFcb5BZU2Ru-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4037,7 +4037,7 @@
           <mxGeometry x="156" y="1340" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UPgwBCvRXKEEk_J0nqKb-9" value="spw" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1039.03" y="-422" width="30" height="30" as="geometry" />
+          <mxGeometry x="859" y="-221" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DVfIR5sCvFz1ziTL87Rx-1" value="Tabla&lt;br&gt;en BI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="58.97000000000003" y="4740" width="120" height="60" as="geometry" />
@@ -5580,6 +5580,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="88.97000000000003" y="-580" as="sourcePoint" />
             <mxPoint x="101" y="-650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5HeHEufEKqUzqZH3OT8-47" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF3333;exitX=0.998;exitY=0.108;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AS-SKo3hPJ-cSxrVQVFp-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1296.0400000000004" y="-504.5" as="sourcePoint" />
+            <mxPoint x="1370" y="-519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
