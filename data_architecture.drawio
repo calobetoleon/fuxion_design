@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T20:14:00.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6tt1GtJOymDMf3QGEecS" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T22:25:02.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="kHfQUFsFXI8xIDV-C35r" version="20.7.4" type="github">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="SQL - BI Architecture">
     <mxGraphModel dx="1510" dy="2604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -4055,9 +4055,6 @@
           <mxGeometry x="30" width="170" height="30" as="geometry">
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MBecba5lZffc6or2cjcK-55" value="remove FnConsumerAveragesByWeek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="-1190" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MBecba5lZffc6or2cjcK-61" value="ccm" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="1615" y="-453.5" width="49" height="49" as="geometry" />
