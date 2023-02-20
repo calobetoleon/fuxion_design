@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T15:12:01.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="jHQrgu-DYA04Ju0Njycj" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T15:16:00.350Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="akgAUEcay8N3o7DIq30q" version="20.8.20" type="github">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="SQL - BI Architecture">
     <mxGraphModel dx="1611" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5719,6 +5719,9 @@
         </mxCell>
         <mxCell id="XFZk4H3MliLNFHFh8B_N-93" value="SUPPORT_SAE.xlsx" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.file_2;pointerEvents=1;fontColor=#c20fe6;" vertex="1" parent="1">
           <mxGeometry x="2199" y="530" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-105" value="3 files" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#c20fe6;" vertex="1" parent="1">
+          <mxGeometry x="2195" y="605" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
