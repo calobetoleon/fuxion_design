@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T14:45:58.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Pbx-EsEii5S9pZgDjhGc" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T15:12:01.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="jHQrgu-DYA04Ju0Njycj" version="20.8.20" type="github">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="SQL - BI Architecture">
     <mxGraphModel dx="1611" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -634,7 +634,7 @@
         <mxCell id="ZdUvaMXLcFVt-ijMAfai-820" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="366.46000000000004" y="1745" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZdUvaMXLcFVt-ijMAfai-829" value="perct" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="ZdUvaMXLcFVt-ijMAfai-829" value="ct" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="759" y="1770" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="41WEWJxHaRaPQ7KQx3gO-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="AS-SKo3hPJ-cSxrVQVFp-271" target="41WEWJxHaRaPQ7KQx3gO-62" edge="1">
@@ -4520,7 +4520,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MAcD_al_9KrKRKNZasco-76" value="ViewOrdersByDate" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="512.94" y="415" width="180" height="190" as="geometry">
+          <mxGeometry x="1270" y="1135" width="180" height="190" as="geometry">
             <mxRectangle x="650" y="1135" width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -4593,27 +4593,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MAcD_al_9KrKRKNZasco-99" value="p" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="411.94000000000005" y="411" width="40" height="40" as="geometry" />
+          <mxGeometry x="1169" y="1131" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MAcD_al_9KrKRKNZasco-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MAcD_al_9KrKRKNZasco-101" target="MAcD_al_9KrKRKNZasco-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MAcD_al_9KrKRKNZasco-101" value="o" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="322.94000000000005" y="500" width="40" height="40" as="geometry" />
+          <mxGeometry x="1080" y="1220" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MAcD_al_9KrKRKNZasco-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MAcD_al_9KrKRKNZasco-103" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="512.94" y="520" as="targetPoint" />
+            <mxPoint x="1270" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MAcD_al_9KrKRKNZasco-103" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="391.94000000000005" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="1149" y="1200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MAcD_al_9KrKRKNZasco-104" value="odt" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="757.94" y="495" width="30" height="30" as="geometry" />
+          <mxGeometry x="1515" y="1215" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MAcD_al_9KrKRKNZasco-105" value="FuxionReporting.dbo.Orders&lt;br&gt;@dw = 8 for comparisons, includes&amp;nbsp;&lt;br&gt;current week" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="506.94000000000005" y="360" width="210" height="60" as="geometry" />
+          <mxGeometry x="1264" y="1080" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAcD_al_9KrKRKNZasco-179" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;CustomerStatusesExt&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#f10909;" parent="1" vertex="1">
           <mxGeometry x="85" y="4195" width="150" height="30" as="geometry" />
@@ -5664,6 +5664,61 @@
         </mxCell>
         <mxCell id="XFZk4H3MliLNFHFh8B_N-30" value="me" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;fontColor=#221c1c;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1020" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-38" value="" style="swimlane;startSize=0;gradientDirection=north;swimlaneFillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2481" y="130" width="940" height="590" as="geometry">
+            <mxRectangle x="2520" y="659" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-46" value="&lt;font color=&quot;#000000&quot;&gt;+ ShowLastFiveYears&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="XFZk4H3MliLNFHFh8B_N-38">
+          <mxGeometry x="189" y="35" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#c20fe6;" edge="1" parent="XFZk4H3MliLNFHFh8B_N-38" source="XFZk4H3MliLNFHFh8B_N-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="216" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-87" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="XFZk4H3MliLNFHFh8B_N-38">
+          <mxGeometry x="210" y="176" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XFZk4H3MliLNFHFh8B_N-38" source="XFZk4H3MliLNFHFh8B_N-89" target="XFZk4H3MliLNFHFh8B_N-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-89" value="ct" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="XFZk4H3MliLNFHFh8B_N-38">
+          <mxGeometry x="227.5" y="70" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#c20fe6;" edge="1" parent="XFZk4H3MliLNFHFh8B_N-38" source="XFZk4H3MliLNFHFh8B_N-101" target="XFZk4H3MliLNFHFh8B_N-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-101" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="XFZk4H3MliLNFHFh8B_N-38">
+          <mxGeometry x="39" y="176" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-90" value="&amp;nbsp;SAE in Power BI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2470" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#c20fe6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFZk4H3MliLNFHFh8B_N-91" target="XFZk4H3MliLNFHFh8B_N-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2410" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-91" value="SAE_EF.xlsx" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.file_2;pointerEvents=1;fontColor=#c20fe6;" vertex="1" parent="1">
+          <mxGeometry x="2199" y="256" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#c20fe6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFZk4H3MliLNFHFh8B_N-92" target="XFZk4H3MliLNFHFh8B_N-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2410" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-92" value="SAE_CP.xlsx" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.file_2;pointerEvents=1;fontColor=#c20fe6;" vertex="1" parent="1">
+          <mxGeometry x="2199" y="388.5" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#c20fe6;" edge="1" parent="1" source="XFZk4H3MliLNFHFh8B_N-93" target="XFZk4H3MliLNFHFh8B_N-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2410" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFZk4H3MliLNFHFh8B_N-93" value="SUPPORT_SAE.xlsx" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.file_2;pointerEvents=1;fontColor=#c20fe6;" vertex="1" parent="1">
+          <mxGeometry x="2199" y="530" width="47.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
