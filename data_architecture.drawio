@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T22:52:56.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rkMTciyvXZ3vWfiDKSmO" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T22:53:49.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8sL42kRKfC7D2ozIJhFl" version="20.8.20" type="github">
   <diagram id="CIbM8JmmOAMS5MDO4Ewb" name="SQL - BI Architecture">
     <mxGraphModel dx="1773" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3166,9 +3166,6 @@
         </mxCell>
         <mxCell id="paXIr1Y2ufrdW6vvtkhT-66" value="BIp" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="2385" y="2753.75" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IjMJd1HjuVIZLy5f6jdQ-9" value="AggMarkeitng, OldViewProductsByWeek, &lt;br&gt;ViewProductsByWeekTest" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="780" y="2586" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qQ2MdFaM9TRUZoYt6v4X-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qQ2MdFaM9TRUZoYt6v4X-1" edge="1">
           <mxGeometry relative="1" as="geometry">
