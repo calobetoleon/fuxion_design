@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T19:44:38.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BWNU6IJ3Qpf6X55H05-4" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T19:46:12.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="m1N_9v8l5GJyNpnj6SVK" version="20.8.23" type="github">
   <diagram name="Page-1" id="UINFdmYZmCP8zzDBwpUC">
     <mxGraphModel dx="1182" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           <mxGeometry x="68" y="360" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="950" y="350" width="20" height="160" as="geometry" />
+          <mxGeometry x="950" y="350" width="20" height="180" as="geometry" />
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-37" value="Usar Data de Muestra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="975" y="384" width="140" height="30" as="geometry" />
@@ -91,8 +91,8 @@
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-42" value="Validar Avances con Usuarios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="975" y="414" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2vTnxGkQGV1oZmEExDwZ-43" value="Publicar en web" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="975" y="444" width="110" height="30" as="geometry" />
+        <mxCell id="2vTnxGkQGV1oZmEExDwZ-43" value="Publicar en web el tablero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="975" y="444" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-45" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="870" y="160" width="120" height="60" as="geometry" />
@@ -103,14 +103,17 @@
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-28" value="Producción" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="2vTnxGkQGV1oZmEExDwZ-45">
           <mxGeometry x="5" y="15" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2vTnxGkQGV1oZmEExDwZ-46" value="Registrar tarea en Jira" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="975" y="474" width="140" height="30" as="geometry" />
+        <mxCell id="2vTnxGkQGV1oZmEExDwZ-46" value="Configurar la Extracción de Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="970" y="474" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-47" value="En contenedor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="315" y="310" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-48" value="En Contenedor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="760" y="305" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vTnxGkQGV1oZmEExDwZ-49" value="Registrar tarea en Jira" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="975" y="504" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
