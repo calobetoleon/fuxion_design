@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T19:42:53.760Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="41NF0WIuoWFFJwl8QpR4" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T19:44:38.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BWNU6IJ3Qpf6X55H05-4" version="20.8.23" type="github">
   <diagram name="Page-1" id="UINFdmYZmCP8zzDBwpUC">
     <mxGraphModel dx="1182" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry x="310" y="240" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.performance_monitor" vertex="1" parent="1">
-          <mxGeometry x="990" y="244" width="50" height="36" as="geometry" />
+          <mxGeometry x="980" y="229.6" width="70" height="50.4" as="geometry" />
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-8" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.management_console;" vertex="1" parent="1">
-          <mxGeometry x="790" y="246" width="50" height="34" as="geometry" />
+          <mxGeometry x="772.5" y="229" width="75" height="51" as="geometry" />
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="20" height="120" as="geometry" />
@@ -105,6 +105,12 @@
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-46" value="Registrar tarea en Jira" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="975" y="474" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vTnxGkQGV1oZmEExDwZ-47" value="En contenedor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="315" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vTnxGkQGV1oZmEExDwZ-48" value="En Contenedor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="760" y="305" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
