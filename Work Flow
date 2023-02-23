@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T19:59:20.961Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7bC36ssm0gSTt0b-IeCh" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T20:00:18.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DgT4sz8gy41v8JIiQrcc" version="20.8.23" type="github">
   <diagram name="Page-1" id="UINFdmYZmCP8zzDBwpUC">
     <mxGraphModel dx="1182" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -25,8 +25,8 @@
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-12" value="Usuarios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="108" y="170" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2vTnxGkQGV1oZmEExDwZ-13" value="Automate: SQL + Airflow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="414" width="150" height="30" as="geometry" />
+        <mxCell id="2vTnxGkQGV1oZmEExDwZ-13" value="Automate: SQL + &lt;br&gt;Configuración en Airflow" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="409" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-14" value="Source: Muestra SQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="354" width="140" height="30" as="geometry" />
