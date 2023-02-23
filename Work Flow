@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T20:00:18.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DgT4sz8gy41v8JIiQrcc" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T20:34:44.335Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="SKh1KTAj30wS1wyKcd-n" version="20.8.23" type="github">
   <diagram name="Page-1" id="UINFdmYZmCP8zzDBwpUC">
     <mxGraphModel dx="1182" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="772.5" y="229" width="75" height="51" as="geometry" />
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="20" height="120" as="geometry" />
+          <mxGeometry x="280" y="350" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-11" value="Desarrollo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="310" y="170" width="100" height="30" as="geometry" />
@@ -28,8 +28,8 @@
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-13" value="Automate: SQL + &lt;br&gt;Configuración en Airflow" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="409" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2vTnxGkQGV1oZmEExDwZ-14" value="Source: Muestra SQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="354" width="140" height="30" as="geometry" />
+        <mxCell id="2vTnxGkQGV1oZmEExDwZ-14" value="Source: Muestra SQL (FuxionReporting)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="354" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-15" value="Code:&amp;nbsp; Jupyter, Pycharm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="384" width="150" height="30" as="geometry" />
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-54" value="Validar con Usuario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="285" y="505" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vTnxGkQGV1oZmEExDwZ-55" value="Target: db_analitycs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="290" y="470" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
