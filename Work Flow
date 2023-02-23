@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T19:30:22.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LMjOmQM2vQNWZTCds6KZ" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T19:39:58.760Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="RLiyLiDx5FyHtWTLYl68" version="20.8.23" type="github">
   <diagram name="Page-1" id="UINFdmYZmCP8zzDBwpUC">
     <mxGraphModel dx="1182" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -91,11 +91,11 @@
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-40" value="Tablero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="985" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2vTnxGkQGV1oZmEExDwZ-41" value="Incluir Tablas de Soporte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="970" y="414" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="2vTnxGkQGV1oZmEExDwZ-42" value="Validar Avances con Usuarios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="975" y="444" width="180" height="30" as="geometry" />
+          <mxGeometry x="975" y="414" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vTnxGkQGV1oZmEExDwZ-43" value="Publicar en web" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="975" y="444" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
